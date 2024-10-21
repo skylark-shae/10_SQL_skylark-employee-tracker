@@ -1,6 +1,23 @@
 <a id="title"></a>
 # Employee Tracker
 
+
+## Table of Contents
+- [Title](#title)
+- [Description](#description)
+- [Badges and Resources Used](#badges)
+- [Visuals](#visuals)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Future Development](#development)
+- [Contributing](#contributing)
+- [Authors and Acknowledgment](#acknowledgment)
+- [License](#license)
+- [Project Status](#status)
+
+
 <a id="description"></a>
 ## Description
 
@@ -46,20 +63,6 @@ The Employee Tracker application is a command-line interface (CLI) content manag
 
 This application is designed to be a fast and efficient tool for managing employee records and company structure, allowing for better operational management and decision-making in real-time.
 
-## Table of Contents
-- [Title](#title)
-- [Description](#description)
-- [Badges and Resources Used](#badges)
-- [Visuals](#visuals)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Questions](#questions)
-- [Future Development](#development)
-- [Contributing](#contributing)
-- [Authors and Acknowledgment](#acknowledgment)
-- [License](#license)
-- [Project Status](#status)
 
 <a id="badges"></a>
 ## Badges and Resources Used
@@ -71,7 +74,6 @@ This application is designed to be a fast and efficient tool for managing employ
    [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skylark-shae)
    [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
 
 <a id="installation"></a>
